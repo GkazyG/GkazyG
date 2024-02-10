@@ -2,7 +2,7 @@
     <img src="Untitled.png" />
 </h1>
 
-<h3 align="center">A passionate software developer from Sri lanka  🇨🇦</h3>
+<h3 align="center">Software developer from Sri lanka  LK</h3>
 
 <br/>
 
