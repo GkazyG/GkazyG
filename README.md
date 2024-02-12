@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Django, Kotlin, AWS**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact ** Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
